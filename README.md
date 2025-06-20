@@ -1,4 +1,5 @@
 🧠 About the Project – SciBot
+
 SciBot is an AI-powered research companion built to make reading, understanding, and interacting with scientific documents easier and smarter. It combines Retrieval-Augmented Generation (RAG) with advanced LLMs (like OpenAI/Gemini) to provide instant summaries and contextual answers — all from your own uploaded documents.
 
 ✨ What SciBot Can Do:
